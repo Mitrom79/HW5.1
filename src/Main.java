@@ -65,7 +65,6 @@ public class Main {
             if (i != 0) {
                 System.out.print(", ");
             }
-
         }
         System.out.println();
         //task 4
@@ -75,7 +74,6 @@ public class Main {
             if (arr[i] % 2 != 0) {
                 arr[i]++;
             }
-
         }
         System.out.println(Arrays.toString(arr));
 
